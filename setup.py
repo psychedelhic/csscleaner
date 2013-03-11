@@ -13,7 +13,7 @@ def get_requirements():
             if elem.strip() and not elem.startswith('#')]
 
 config = {
-    'name': 'CSS Cleaner',
+    'name': 'csscleaner',
     'description': 'A utility to clean your CSS files',
     'author': 'Tarun Arora and Manish Gill',
     'url': 'https://github.com/gobelinus/csscleaner',
